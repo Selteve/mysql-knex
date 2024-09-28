@@ -16,8 +16,8 @@ go get -u github.com/Selteve/mysql-knex
 
 ```go
 import (
-"github.com/your_username/go-mysql-knex/db"
-"github.com/your_username/go-mysql-knex/types"
+"github.com/Selteve/mysql-knex/db"
+"github.com/Selteve/mysql-knex/types"
 )
 func main() {
 dbOptions := &types.DB{
