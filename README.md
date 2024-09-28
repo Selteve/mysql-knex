@@ -7,7 +7,7 @@ Go-MySQL-Knex 是一个 Go 语言的查询构建器,灵感来自于 Node.js 的 
 使用 go get 安装包:
 
 ```bash
-go get github.com/go-mysql-knex/go-mysql-knex
+go get -u github.com/Selteve/mysql-knex
 ```
 
 ## 初始化
